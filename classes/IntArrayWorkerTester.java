@@ -98,7 +98,7 @@ public class IntArrayWorkerTester
     testGetCount(); 
     testGetTotal();
     testGetTotalNested();
-    //testGetLargest();
-    //testGetColTotal();
+    testGetLargest();
+    testGetColTotal();
   }
 }
